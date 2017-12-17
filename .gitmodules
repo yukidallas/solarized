@@ -1,9 +1,9 @@
 [submodule "solarized.vim"]
 	path = solarized.vim
-	url = git@github.com:yukidallas/solarized.vim.git
+	url = https://github.com/yukidallas/solarized.vim.git
 [submodule "osx-terminal.app-colors-solarized"]
 	path = osx-terminal.app-colors-solarized
-	url = git@github.com:yukidallas/osx-terminal.app-colors-solarized.git
+	url = https://github.com/yukidallas/osx-terminal.app-colors-solarized.git
 [submodule "dircolors-solarized"]
 	path = dircolors-solarized
-	url = git@github.com:yukidallas/dircolors-solarized.git
+	url = https://github.com/yukidallas/dircolors-solarized.git
